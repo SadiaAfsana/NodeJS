@@ -1,3 +1,6 @@
+/*2. User will input continuously numbers. Which numbers are divisible by 5, only print sum of them. 
+Continue the program until user inputs -1 */
+
 const prompt = require('prompt-sync')();
 
 var sum = 0;

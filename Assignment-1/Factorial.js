@@ -1,3 +1,5 @@
+//3. Find factorial from given user input
+
 const prompt = require('prompt-sync')();
 
 let n = parseInt(prompt('input number: '))

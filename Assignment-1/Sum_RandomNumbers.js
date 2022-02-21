@@ -1,3 +1,6 @@
+/*1. Generate 2 number randomly and ask user to input the sum of 2 numbers. If user inputs the correct sum, 
+print message that is correct Ans and iterate it 5 times. After 5 iteration, show the total mark out of 5 */
+
 const input  = require('prompt-sync')();
 let score = 0;
 

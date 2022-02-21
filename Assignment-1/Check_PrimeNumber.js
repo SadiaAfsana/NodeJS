@@ -1,3 +1,5 @@
+//4. Check if a number is prime or not. Do it without using array
+
 const prompt = require('prompt-sync')();
 
 let number = parseInt(prompt('Input number greater than 1: '))
